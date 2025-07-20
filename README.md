@@ -1,7 +1,7 @@
+# Jorge Rivera Mancilla
+
 Software Engineer at **Drimo** • University Professor at **UCN**  
 Antofagasta, Chile
-
----
 
 ## Currently working on
 
